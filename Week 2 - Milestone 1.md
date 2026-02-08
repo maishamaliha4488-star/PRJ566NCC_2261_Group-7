@@ -101,3 +101,154 @@ The problem that our company sees is that when newcomers arrive in a new city th
 ## 2.1.3 Product Vision
 
 The vision our group has is that we develop an application that provide newcomers with recommendations for the career that they have experience in and help provide events, volunteer, training, and certification that can help build their career. This also reduces the amount of trial and error for job application since many companies tend to reject due to inflation or unwanted employees with no local experience. The way that this is different than other job application services is that we allow the feature to look for a specific group so that there is an increased chance of both new hires and feeling at home with the people from the same background.
+2.2 Stakeholders and Users 
+
+Internal: 
+
+Role name/Persona - Description. 
+
+…….. 
+
+Stakeholder Name 
+
+Project Role 
+
+Internal / External 
+
+Engagement Level 
+
+Level of Interest 
+
+Level of Power 
+
+Project Team (Group 7) 
+
+Design, develop, test, and document the system 
+
+Internal 
+
+High 
+
+High 
+
+High 
+
+ 
+
+Product Owner / Project Lead 
+
+Defines vision, priorities, and scope 
+
+Internal 
+
+High 
+
+High 
+
+High 
+
+ 
+
+System Administrator 
+
+Maintains system availability and security 
+
+Internal 
+
+Medium 
+
+Medium 
+
+Medium 
+
+ 
+
+External: 
+
+Role name/Persona - Description. 
+
+…….. 
+
+Stakeholder Name 
+
+Project Role 
+
+Internal / External 
+
+Engagement Level 
+
+Level of Interest 
+
+Level of Power 
+
+Project Sponsor / Instructor 
+
+Approves requirements and evaluates deliverables 
+
+External 
+
+Medium 
+
+High 
+
+High 
+
+ 
+
+Newcomer Job Seekers 
+
+Primary end users of the application 
+
+External 
+
+High 
+
+High 
+
+Medium 
+
+ 
+
+Employers / Recruiters 
+
+Post jobs, events, and review applicants 
+
+External 
+
+Medium 
+
+Medium 
+
+Medium 
+
+ 
+
+Training & Certification  
+
+Providers 
+
+Provide courses, certifications, and workshops 
+
+External 
+
+Low 
+
+Medium 
+
+Low 
+
+Community Organizations / Mentors 
+
+Community Organizations / Mentors 
+
+Support newcomers with guidance and networking 
+
+External 
+
+Medium 
+
+Medium 
+
+Low 
+
+ 
